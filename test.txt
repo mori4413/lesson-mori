@@ -1,2 +1,0 @@
-github上からファイルを作成しました
-git init
